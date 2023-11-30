@@ -1,4 +1,4 @@
-import { Box, Flex } from "@chakra-ui/react"
+import { Box, Flex,FormLabel,FormControl } from "@chakra-ui/react"
 
 function Login (){
     return <>
